@@ -1,0 +1,11 @@
+Get-Command
+Get-Help
+Get-Service
+Get-Process
+Clear
+New-Object
+Set-Alias
+Get-Netipaddress
+Mkdir
+Get-childitem
+invoke-IpamGpoProvisioning   ## This is done on the IPAM server ##
